@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @silva-micheli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, eu sou @silva-michel
+- 🌱 Atualmente estou aprendendo Pensamento Cumputacional na Plataforma ALURA
+- 📫 meu email é da.silva.micheli@escola.pr.gov.br
 
-<!---
-silva-micheli/silva-micheli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--->silva-micheli/silva-micheli é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
